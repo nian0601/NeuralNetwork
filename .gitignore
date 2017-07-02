@@ -1,0 +1,58 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+
+Libs/
+Release/
+
+*.ipch
+*.cache
+
+*.sdf
+/Solution/Application/log
+*.user
+*.opensdf
+*.suo
+*.tlog
+*.log
+*.idb
+*.pdb
+/Workbed/log
+*.ilk
+*.csproj
+*.unityproj
+*.userprefs
+*.DS_store
+
+*.dds
+*.fbx
+*.lib
+/UnityProject/Easy3D-Project/Library
+/UnityProject/Easy3D-Project/Temp
+/Engine/Include
